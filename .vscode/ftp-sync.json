@@ -1,8 +1,8 @@
 {
     "remotePath": "/www",
-    "host": "ftp.cluster021.hosting.ovh.net",
-    "username": "omarsyfrny",
-    "password": "zVeQzcRtEsyh",
+    "host": "",
+    "username": "",
+    "password": "",
     "port": 21,
     "secure": false,
     "protocol": "ftp",
